@@ -1,0 +1,5 @@
+{
+  "build": "npm run build",
+  "startCommand": "npm start",
+  "node": "20.18.1"
+}
