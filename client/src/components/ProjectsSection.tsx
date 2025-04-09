@@ -244,7 +244,7 @@ export default function ProjectsSection() {
       
       <Tabs defaultValue="all" className="w-full">
         <TabsList className="grid w-full grid-cols-4 mb-4">
-          <TabsTrigger value="all">Semua</TabsTrigger>
+          <TabsTrigger value="all">All</TabsTrigger>
           <TabsTrigger value="backend">Backend</TabsTrigger>
           <TabsTrigger value="web">Web</TabsTrigger>
           <TabsTrigger value="bot">Bot</TabsTrigger>
