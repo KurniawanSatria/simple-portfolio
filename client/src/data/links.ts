@@ -34,14 +34,6 @@ export const defaultSocialLinks: SocialLink[] = [
 export const defaultLinks: Link[] = [
   {
     id: 1,
-    title: "My YouTube Channel",
-    description: "Tech reviews & tutorials",
-    url: "https://youtube.com/SatzzDev",
-    icon: "youtube",
-    order: 1,
-  },
-  {
-    id: 2,
     title: "My REST API",
     description: "API service for application integration",
     url: "https://api.satzzdev.xyz",
