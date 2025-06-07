@@ -34,6 +34,14 @@ export const defaultSocialLinks: SocialLink[] = [
 export const defaultLinks: Link[] = [
   {
     id: 1,
+    title: "Telegram Channel",
+    description: "Tech reviews & tutorials",
+    url: "https://t.me/SatzzDev",
+    icon: "telegram",
+    order: 1,
+  },
+  {
+    id: 2,
     title: "My REST API",
     description: "API service for application integration",
     url: "https://api.satzzdev.xyz",
